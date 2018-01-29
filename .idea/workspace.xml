@@ -1,98 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="950a8dbb-ae0a-4c53-a6ff-4921ad94ba75" name="Default" comment="demo added in docs">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/profile_image1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/profile_image_slow.gif" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main-amber.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main-blue.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main-green.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main-image-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main-image-light.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main-orange.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main-pink.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main-purple.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main-red.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/assets/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/assets/css/main.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/assets/css/main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/assets/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/assets/images/mainbg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/boilerplate docs/TOC.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/boilerplate docs/css.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/boilerplate docs/extend.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/boilerplate docs/faq.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/boilerplate docs/html.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/boilerplate docs/js.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/boilerplate docs/misc.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/boilerplate docs/usage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/.htpasswd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/browserconfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/crossdomain.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/_fontface.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/magnific-popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main-amber.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main-black.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main-blue.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main-green.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main-image-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main-image-light.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main-orange.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main-pink.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main-purple.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main-red.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main-teal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/css/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/fonts/Jaapokkisubtract-Regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/fonts/Jaapokkisubtract-Regular.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/fonts/Jaapokkisubtract-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/fonts/Jaapokkisubtract-Regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/fonts/Jaapokkisubtract-Regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/humans.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/img/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/img/dark-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/img/light-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/img/profile_image.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/img/project-0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/img/project-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/img/project-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/img/project-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/img/project-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/img/project-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/img/project-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/img/project-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/js/main.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/js/plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/js/vendor/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/js/vendor/jquery-1.12.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/js/vendor/material.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/js/vendor/modernizr-2.8.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/resume.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/demo/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile_image.gif" afterPath="$PROJECT_DIR$/img/profile_image.gif" />
+    <list default="true" id="950a8dbb-ae0a-4c53-a6ff-4921ad94ba75" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -127,13 +36,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="1150" column="75" lean-forward="false" selection-start-line="1150" selection-start-column="75" selection-end-line="1150" selection-end-column="75" />
+            <state relative-caret-position="375">
+              <caret line="1159" column="55" lean-forward="true" selection-start-line="1159" selection-start-column="55" selection-end-line="1159" selection-end-column="55" />
               <folding>
                 <element signature="e#4106#4112#1" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1515592235523" expanded="true" signature="1778:1931" ph="..." />
-                <marker date="1515592235523" expanded="true" signature="1871:1899" ph="..." />
+                <marker date="1517220136067" expanded="true" signature="1778:1931" ph="..." />
+                <marker date="1517220136067" expanded="true" signature="1871:1899" ph="..." />
               </folding>
             </state>
           </provider>
@@ -252,6 +161,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -263,8 +174,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,7 +185,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Berto_Release_04-5-17/trunk/js/main.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="267" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="296" />
@@ -424,7 +333,8 @@
       <workItem from="1509020410699" duration="270000" />
       <workItem from="1509604439587" duration="429000" />
       <workItem from="1515322745720" duration="138000" />
-      <workItem from="1515586490149" duration="2902000" />
+      <workItem from="1515586490149" duration="3519000" />
+      <workItem from="1517220102723" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="first phase done">
       <created>1483613445243</created>
@@ -552,11 +462,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500381032074</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="image added">
+      <created>1515592756709</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1515592756709</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="438687000" />
+    <option name="totallyTimeSpent" value="439349000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -571,11 +488,10 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12526652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24626866" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489339" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5042644" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34249473" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27735645" sideWeight="0.49573562" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -590,6 +506,7 @@
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34249473" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -675,7 +592,8 @@
     <MESSAGE value="java script points implemented including creating single ftn for scrolling" />
     <MESSAGE value="themeforest feedback implemented" />
     <MESSAGE value="demo added in docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo added in docs" />
+    <MESSAGE value="image added" />
+    <option name="LAST_COMMIT_MESSAGE" value="image added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -742,13 +660,7 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp22253/protected/config/main.php" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp54314/js/contact.js" />
-    <entry file="file://$PROJECT_DIR$/css/main-blue.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="0" column="23417" lean-forward="false" selection-start-line="0" selection-start-column="23412" selection-end-line="0" selection-end-column="23417" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main-blue.css" />
     <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -801,20 +713,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main-red.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main-red.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main-red.css" />
+    <entry file="file://$PROJECT_DIR$/css/main-red.css" />
     <entry file="file://$PROJECT_DIR$/css/main-teal.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -823,22 +723,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main-image-light.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-        </state>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main-image-light.css" />
     <entry file="file://$PROJECT_DIR$/index-teal.html" />
     <entry file="file://$PROJECT_DIR$/index-red.html" />
     <entry file="file://$PROJECT_DIR$/index-purple.html" />
@@ -850,13 +744,7 @@
     <entry file="file://$PROJECT_DIR$/index-blue.html" />
     <entry file="file://$PROJECT_DIR$/index-black.html" />
     <entry file="file://$PROJECT_DIR$/../Berto_Release_13-07-17/trunk/doc/index.html" />
-    <entry file="file://$PROJECT_DIR$/doc/boilerplate docs/extend.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="322" column="52" lean-forward="false" selection-start-line="322" selection-start-column="52" selection-end-line="322" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/boilerplate docs/extend.md" />
     <entry file="file://$PROJECT_DIR$/browserconfig.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -881,29 +769,9 @@
     <entry file="file://$PROJECT_DIR$/index-amber.html" />
     <entry file="file://$PROJECT_DIR$/index_original.html" />
     <entry file="file://$PROJECT_DIR$/../Berto_Release_04-5-17/trunk/css/main.scss" />
-    <entry file="file://$PROJECT_DIR$/doc/demo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16813">
-          <caret line="989" column="6" lean-forward="false" selection-start-line="989" selection-start-column="6" selection-end-line="989" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/demo/js/main.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5725" lean-forward="false" selection-start-line="0" selection-start-column="5725" selection-end-line="0" selection-end-column="5725" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/demo/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/demo/index.html" />
+    <entry file="file://$PROJECT_DIR$/doc/demo/js/main.min.js" />
+    <entry file="file://$PROJECT_DIR$/doc/demo/css/main.scss" />
     <entry file="file://$PROJECT_DIR$/../Berto_Release_04-5-17/trunk/index.html" />
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -913,23 +781,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/demo/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="363" column="39" lean-forward="true" selection-start-line="363" selection-start-column="39" selection-end-line="363" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/demo/js/main.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="1150" column="75" lean-forward="false" selection-start-line="1150" selection-start-column="75" selection-end-line="1150" selection-end-column="75" />
+        <state relative-caret-position="375">
+          <caret line="1159" column="55" lean-forward="true" selection-start-line="1159" selection-start-column="55" selection-end-line="1159" selection-end-column="55" />
           <folding>
             <element signature="e#4106#4112#1" expanded="true" />
             <element signature="n#style#0;n#a#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1515592235523" expanded="true" signature="1778:1931" ph="..." />
-            <marker date="1515592235523" expanded="true" signature="1871:1899" ph="..." />
+            <marker date="1517220136067" expanded="true" signature="1778:1931" ph="..." />
+            <marker date="1517220136067" expanded="true" signature="1871:1899" ph="..." />
           </folding>
         </state>
       </provider>
