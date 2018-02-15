@@ -5,7 +5,9 @@
         $to_top_btn = $('.back-to-top'), $fp_nav = $('.full-page-nav-container');
 
     $(document).on('ready', function () {
-        $body.addClass('loaded');
+        console.log("%c Contact: itsnabeel@gmail.com","color: #FFFFFF; background: #CF0A2C; font-size: x-large");
+
+    $body.addClass('loaded');
         $body.css('overflow-x', 'hidden');
         // load projects for small screens
         $('.load_projects').on('click', function () {

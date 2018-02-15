@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="950a8dbb-ae0a-4c53-a6ff-4921ad94ba75" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audacia_home.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ico_scroll.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lava-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lava_brands_home.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wujha_home.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/debug.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css.map" afterPath="$PROJECT_DIR$/css/main.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.scss" afterPath="$PROJECT_DIR$/css/main.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="trunk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,17 +24,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="404" column="116" lean-forward="false" selection-start-line="404" selection-start-column="116" selection-end-line="404" selection-end-column="116" />
+            <state relative-caret-position="319">
+              <caret line="1408" column="60" lean-forward="true" selection-start-line="1408" selection-start-column="60" selection-end-line="1408" selection-end-column="60" />
               <folding>
-                <element signature="e#4101#4107#1" expanded="true" />
+                <element signature="e#4422#4428#1" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1518722483329" expanded="true" signature="1773:1926" ph="..." />
-                <marker date="1518722483329" expanded="true" signature="1866:1894" ph="..." />
+                <marker date="1518723516025" expanded="true" signature="2094:2247" ph="..." />
+                <marker date="1518723516025" expanded="true" signature="2187:2215" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,12 +80,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>load</find>
-      <find>resize</find>
-      <find>click</find>
-      <find>profile</find>
-      <find>text-ri</find>
-      <find>emply</find>
       <find>200</find>
       <find>form</find>
       <find>full sta</find>
@@ -111,6 +104,12 @@
       <find>audacia_ho</find>
       <find>carousel-wujha</find>
       <find>auda</find>
+      <find>itsnabe</find>
+      <find>project</find>
+      <find>console</find>
+      <find>.js</find>
+      <find>.ready</find>
+      <find>ready</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -172,10 +171,10 @@
         <option value="$PROJECT_DIR$/index-amber.html" />
         <option value="$PROJECT_DIR$/doc/demo/css/main.scss" />
         <option value="$PROJECT_DIR$/doc/demo/index.html" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/doc/demo/js/main.js" />
         <option value="$PROJECT_DIR$/css/main.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -231,6 +230,11 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="itsnabeel.github.io" type="cbb8eebc:String" user="itsnabeel.github.io" />
               <item name="css" type="cbb8eebc:String" user="css" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="itsnabeel.github.io" type="cbb8eebc:String" user="itsnabeel.github.io" />
+              <item name="js" type="cbb8eebc:String" user="js" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
@@ -412,7 +416,7 @@
       <workItem from="1515586490149" duration="3519000" />
       <workItem from="1517220102723" duration="45000" />
       <workItem from="1518625762720" duration="3200000" />
-      <workItem from="1518719656011" duration="2854000" />
+      <workItem from="1518719656011" duration="4106000" />
     </task>
     <task id="LOCAL-00001" summary="first phase done">
       <created>1483613445243</created>
@@ -547,11 +551,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515592756709</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="projects added">
+      <created>1518722566166</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1518722566166</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="446352000" />
+    <option name="totallyTimeSpent" value="447604000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -565,16 +576,16 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12475884" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12475884" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1511254" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32702702" sideWeight="0.5042644" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.4977492" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.5022508" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34249473" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46756756" sideWeight="0.49573562" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46756756" sideWeight="0.4932476" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32162163" sideWeight="0.49573562" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32162163" sideWeight="0.4932476" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -671,7 +682,8 @@
     <MESSAGE value="themeforest feedback implemented" />
     <MESSAGE value="demo added in docs" />
     <MESSAGE value="image added" />
-    <option name="LAST_COMMIT_MESSAGE" value="image added" />
+    <MESSAGE value="projects added" />
+    <option name="LAST_COMMIT_MESSAGE" value="projects added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -791,14 +803,6 @@
     <entry file="file://$PROJECT_DIR$/doc/demo/js/main.min.js" />
     <entry file="file://$PROJECT_DIR$/doc/demo/css/main.scss" />
     <entry file="file://$PROJECT_DIR$/../Berto_Release_04-5-17/trunk/index.html" />
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="77" lean-forward="false" selection-start-line="3" selection-start-column="77" selection-end-line="3" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doc/demo/js/main.js" />
     <entry file="file://$PROJECT_DIR$/../test/test.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -840,14 +844,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="404" column="116" lean-forward="false" selection-start-line="404" selection-start-column="116" selection-end-line="404" selection-end-column="116" />
+        <state relative-caret-position="319">
+          <caret line="1408" column="60" lean-forward="true" selection-start-line="1408" selection-start-column="60" selection-end-line="1408" selection-end-column="60" />
           <folding>
-            <element signature="e#4101#4107#1" expanded="true" />
+            <element signature="e#4422#4428#1" expanded="true" />
             <element signature="n#style#0;n#a#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1518722483329" expanded="true" signature="1773:1926" ph="..." />
-            <marker date="1518722483329" expanded="true" signature="1866:1894" ph="..." />
+            <marker date="1518723516025" expanded="true" signature="2094:2247" ph="..." />
+            <marker date="1518723516025" expanded="true" signature="2187:2215" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
