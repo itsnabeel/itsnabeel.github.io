@@ -30,8 +30,8 @@ $purple: #AB47BC;
 $red: #EF5350;
 $teal: #26A69A;
 
-$primary: $black;
-$secondary: $white;
+$primary: $white;
+$secondary: $teal;
 $light_primary: rgba($primary, 0.05);
 
 @mixin transition($t) {
@@ -1145,6 +1145,10 @@ section {
   -webkit-box-shadow: 0 5px 55px rgba($primary, .4);
   -moz-box-shadow: 0 5px 55px rgba($primary, .4);
   box-shadow: 0 5px 55px rgba($primary, .4);
+  .item {
+    max-height: 50vh;
+    overflow: hidden;
+  }
   .image {
     padding: 0;
     img {

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="372e2d4e-b25c-4d6d-bf74-062404c39f24" name="LAVA Brands" url="http://lava-brands.com">
+        <fileTransfer host="182.50.146.128" port="22" rootFolder="/var/chroot/home/content/88/10289188" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
