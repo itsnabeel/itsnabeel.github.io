@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="950a8dbb-ae0a-4c53-a6ff-4921ad94ba75" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/alafiya_chicken_home.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/alafiya_chicken_home_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audacia_home_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynamicobjects_home.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynamicobjects_home_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mariam-yasin_home.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mariam-yasin_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ottco_home.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ottco_home_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/talex_about.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/talex_home_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wujha_home_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/audacia_home.jpg" afterPath="$PROJECT_DIR$/img/audacia_home.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lava-thumb.jpg" afterPath="$PROJECT_DIR$/img/lava-thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lava_brands_home.jpg" afterPath="$PROJECT_DIR$/img/lava_brands_home.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/wujha_home.jpg" afterPath="$PROJECT_DIR$/img/wujha_home.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/debug.log" afterPath="$PROJECT_DIR$/css/debug.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css.map" afterPath="$PROJECT_DIR$/css/main.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.scss" afterPath="$PROJECT_DIR$/css/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="trunk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,7 +28,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -240,11 +222,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="1162" column="15" lean-forward="false" selection-start-line="1162" selection-start-column="15" selection-end-line="1162" selection-end-column="15" />
+            <state relative-caret-position="434">
+              <caret line="1159" column="19" lean-forward="false" selection-start-line="1159" selection-start-column="19" selection-end-line="1159" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -254,7 +236,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>img/project-0.jpg</find>
       <find>lava brands</find>
       <find>lava</find>
       <find>carousel-example-generic</find>
@@ -284,6 +265,7 @@
       <find>project</find>
       <find>audac</find>
       <find>overlay</find>
+      <find>flex</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -348,8 +330,8 @@
         <option value="$PROJECT_DIR$/doc/demo/index.html" />
         <option value="$PROJECT_DIR$/doc/demo/js/main.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/css/main.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.scss" />
       </list>
     </option>
   </component>
@@ -572,7 +554,7 @@
       <workItem from="1517220102723" duration="45000" />
       <workItem from="1518625762720" duration="3200000" />
       <workItem from="1518719656011" duration="4412000" />
-      <workItem from="1518856807993" duration="12159000" />
+      <workItem from="1518856807993" duration="13900000" />
     </task>
     <task id="LOCAL-00001" summary="first phase done">
       <created>1483613445243</created>
@@ -721,11 +703,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518723790932</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="New Projects Added">
+      <created>1518894246554</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1518894246554</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="460069000" />
+    <option name="totallyTimeSpent" value="461810000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -742,7 +731,7 @@
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12475884" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15305467" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.4977492" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.5022508" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46756756" sideWeight="0.50675243" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46756756" sideWeight="0.4932476" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -847,7 +836,8 @@
     <MESSAGE value="image added" />
     <MESSAGE value="projects added" />
     <MESSAGE value="contact form" />
-    <option name="LAST_COMMIT_MESSAGE" value="contact form" />
+    <MESSAGE value="New Projects Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Projects Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1004,14 +994,6 @@
     <entry file="file://$PROJECT_DIR$/img/wujha_home.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="1162" column="15" lean-forward="false" selection-start-line="1162" selection-start-column="15" selection-end-line="1162" selection-end-column="15" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -1176,6 +1158,14 @@
             <marker date="1518894216875" expanded="false" signature="2102:2255" ph="..." />
             <marker date="1518894216875" expanded="false" signature="2195:2223" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="1159" column="19" lean-forward="false" selection-start-line="1159" selection-start-column="19" selection-end-line="1159" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
