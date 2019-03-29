@@ -1474,9 +1474,14 @@ section {
     #skills {
         margin-bottom: 10rem;
 
+
         @media (max-width: 768px) {
             padding: 20px 0;
             margin-bottom: 2.5rem;
+
+            .bar-container {
+                max-width: calc(100% - 50px);
+            }
         }
     }
 }
@@ -1748,8 +1753,7 @@ section {
                 // width: 60px;
 
                 @media (max-width: 991px) {
-                    margin-right: 0;
-
+                    width: 30px;
                 }
             }
 
@@ -2037,14 +2041,13 @@ header {
 
     ul li {
         border-bottom: 4px solid #000000;
-        text-decoration: line-through;
         color: #000000;
+        /* text-decoration: line-through;
         opacity: .3;
-
         &:last-child {
             text-decoration: none;
             opacity: 1;
-        }
+        } */
     }
 
 

@@ -178,11 +178,11 @@
         var $filter = $('#filters');
 
 
-     
+
         //Smooth page scroll
         $('.navbar-nav').on('click', 'a', function (event) {
             var anchor = '#' + $(this).attr('href').split('#')[1];
-            scrollPage($(anchor).offset().left, $(anchor).offset().top);
+            scrollPage($(anchor).offset().left, $(anchor).offset().top - 100);
             current_section = $(anchor).index();
             event.preventDefault();
         });
