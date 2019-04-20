@@ -16,7 +16,28 @@
 -------------------------------------------------------------------*/
 @import "fontface";
 
-@include font-face(Jaapokkisubtract-Regular, '../fonts/Jaapokkisubtract-Regular');
+@font-face {
+    font-family: 'Jaapokkisubtract';
+    src: url('../fonts/Jaapokkisubtract-Regular.woff2') format('woff2'),
+        url('../fonts/Jaapokkisubtract-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Graphik';
+    src: url('../fonts/Graphik-Regular.woff2') format('woff2'),
+        url('../fonts/Graphik-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'noe-display';
+    src: url('../fonts/noe-display-medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 
 //color options
 $white: #ffffff;
@@ -368,7 +389,7 @@ h3,
 h4,
 h5 {
     font-weight: 300;
-    font-family: 'Vidaloka', serif;
+    font-family: 'noe-display', serif;
     color: $primary;
 }
 
@@ -745,7 +766,7 @@ a:focus {
 
 .logo {
     position: fixed;
-    font-family: Jaapokkisubtract-Regular;
+    font-family: Jaapokkisubtract;
     font-size: 4rem;
     float: left;
     left: 60px;
@@ -1178,7 +1199,9 @@ section {
             transition-timing-function: cubic-bezier(0.25, 0.1, 0.2, 1);
 
             &:nth-child(1),
-            &:nth-child(4) {
+            &:nth-child(4),
+            &:nth-child(5),
+            &:nth-child(8) {
                 grid-row: span 2;
                 grid-column: span 2;
                 /* grid-column: 1/3;
