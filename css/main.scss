@@ -23,6 +23,7 @@
     font-weight: normal;
     font-style: normal;
 }
+
 @font-face {
     font-family: 'Graphik';
     src: url('../fonts/Graphik-Regular.woff2') format('woff2'),
@@ -358,7 +359,7 @@ textarea {
 html,
 body {
     background-color: $secondary;
-    font-family: 'Lekton', sans-serif;
+    font-family: 'Graphik', sans-serif;
     font-size: 62.5%;
 
     @media (min-width: 1500px) {
@@ -557,7 +558,7 @@ a:focus {
         background-color: $secondary;
         text-align: center;
         font-size: 6.4rem;
-        font-family: 'Vidaloka', serif;
+        font-family: 'noe-display', serif;
         display: none;
 
         @media (max-width: 768px) {
@@ -1085,7 +1086,7 @@ section {
             top: -.5rem;
             font-size: 9rem;
             color: rgba($primary, .05);
-            font-family: 'Vidaloka', serif;
+            font-family: 'noe-display', serif;
             z-index: 0;
             @include transition(1s);
 
@@ -1105,7 +1106,7 @@ section {
     }
 
     .filter {
-        font-family: 'Vidaloka', serif;
+        font-family: 'noe-display', serif;
         font-size: 2.14rem;
         position: relative;
         margin-bottom: 45px;
@@ -1126,7 +1127,7 @@ section {
             top: -.5em;
             font-size: 9rem;
             color: rgba($primary, .05);
-            font-family: 'Vidaloka', serif;
+            font-family: 'noe-display', serif;
             z-index: 0;
             @include transition(1s);
 
@@ -1238,7 +1239,7 @@ section {
                 }
 
                 .project-title {
-                    font-family: 'Vidaloka', serif;
+                    font-family: 'noe-display', serif;
                     font-size: 2.1rem;
                     line-height: 1;
                 }
@@ -1375,7 +1376,7 @@ section {
         padding-left: 30px;
 
         h4 {
-            font-family: Vidaloka;
+            font-family: noe-display;
             color: $primary;
             font-size: 2.1rem;
             margin-bottom: 0;
@@ -1388,7 +1389,7 @@ section {
 
         p {
             font-size: 1.4rem;
-            font-family: 'Lekton', sans-serif;
+            font-family: 'Graphik', sans-serif;
             padding-bottom: 10px;
         }
 
@@ -1396,7 +1397,7 @@ section {
             display: block;
 
             span {
-                font-family: Vidaloka;
+                font-family: noe-display;
 
             }
         }
@@ -1450,7 +1451,7 @@ section {
 
     .bar-title {
         margin-top: .7em;
-        font-family: 'Vidaloka', serif;
+        font-family: 'noe-display', serif;
         font-size: 2.6rem;
         clear: both;
     }
@@ -1460,7 +1461,7 @@ section {
         background-color: transparent;
         border-radius: 0;
         overflow: visible;
-        font-family: 'Vidaloka', serif;
+        font-family: 'noe-display', serif;
         height: 15px;
     }
 
@@ -1469,7 +1470,7 @@ section {
         font-size: 2.6rem;
         line-height: .8;
         position: relative;
-        font-family: 'Vidaloka', serif;
+        font-family: 'noe-display', serif;
 
         -webkit-transition: none !important;
         transition: none !important;
@@ -1482,7 +1483,7 @@ section {
     }
 
     .progress-circle {
-        font-family: 'Vidaloka', serif;
+        font-family: 'noe-display', serif;
         margin: 20px auto;
         width: 150px;
         height: 150px;
@@ -1491,7 +1492,7 @@ section {
 
         +div {
             font-size: 2.1rem;
-            font-family: 'Vidaloka', serif;
+            font-family: 'noe-display', serif;
             text-align: center;
         }
 
@@ -1564,17 +1565,19 @@ section {
         >.timeline-content {
             position: relative;
             background: $secondary;
+            line-height: 1.6;
 
             >h4 {
                 margin: 0;
                 font-size: 2.56rem;
+                margin-bottom: 1.5rem;
                 display: inline-block;
-                font-family: 'Vidaloka', serif;
+                font-family: 'noe-display', serif;
             }
 
             >.period {
                 font-size: 2.56rem;
-                font-family: 'Vidaloka', serif;
+                font-family: 'noe-display', serif;
                 color: $primary;
                 position: absolute;
                 right: 100%;
@@ -1589,7 +1592,7 @@ section {
             }
 
             >span {
-                font-family: 'Lekton', sans-serif;
+                font-family: 'Graphik', sans-serif;
                 font-weight: bold;
                 color: $primary;
                 font-size: 1.56rem;
@@ -1683,7 +1686,7 @@ section {
     }
 
     form {
-        font-family: 'Vidaloka', serif;
+        font-family: 'noe-display', serif;
         font-size: 2.14rem;
         margin: 5rem auto 0;
         max-width: 950px;
@@ -1803,7 +1806,7 @@ section {
 .btn {
     background-color: rgba($primary, .8);
     color: $secondary;
-    font-family: 'Vidaloka', serif;
+    font-family: 'noe-display', serif;
     border-radius: 0;
     padding: 10px 50px;
     font-size: 1.7rem;
@@ -1833,7 +1836,7 @@ section {
     border-radius: 30px;
     margin-top: 20px;
     display: inline-block;
-    font-family: 'Vidaloka', serif;
+    font-family: 'noe-display', serif;
 
     .txt {
         display: block;
